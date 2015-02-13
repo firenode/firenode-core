@@ -1,0 +1,10 @@
+{
+  "name": "io.firenode.core",
+  "version": "0.0.0",
+  "main": "core.js",
+  "config": {
+    "pio.deploy.converter": {
+      "name": "nodejs-lib"
+    }
+  }
+}
